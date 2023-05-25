@@ -5,7 +5,7 @@ Old Version of my Personal Website
 
 ![image](pic2.png) 
 
-![image](pic4.png) 
+![image](pic3.png) 
 
 ![image](pic4.png) 
 
